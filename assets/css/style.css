@@ -1,0 +1,36 @@
+body {
+    color: #0a9673;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.panel {
+    width: 100%;
+    padding: 15px;
+        
+}
+
+.panel-body {
+    border: solid 1px #0a9673; 
+    padding: 20px;   
+       
+    
+}
+
+.jumbotron {
+    margin-top: 15px;
+    background: #f5d98d;
+    text-align: center; 
+    border-radius: 5px; 
+    padding: 2%;  
+}
+
+.panel-heading {
+    background: #f5d98d;
+    padding: 1%;
+    border-radius: 15px 15px 0px 0px;
+    border-bottom: none;
+}
+.form-panel {
+    margin-top: 15px;
+}
